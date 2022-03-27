@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Jogo da memória criado na década de 80, em que aleatoriamente será apresentado uma sequência de luzes e o usuário deverá repetir a sequência sorteada.
+Jogo da memória criado na década de 80 em que, aleatoriamente, será apresentado uma sequência de luzes e o usuário deverá repetir a sequência sorteada.
 
 ## Tarefa
 
